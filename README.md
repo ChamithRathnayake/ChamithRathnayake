@@ -1,22 +1,22 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate Full Stack MERN Developer from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm Chamith Rathnayake</h1>
+<h3 align="center">A passionate Full Stack MERN Developer from Sri Lanka
 
 <!-- Profile Views & Stats -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="ChamithRathnayake" /> </p>
 
 <!-- Introduction -->
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[What you're currently learning, e.g., Next.js, GraphQL, TypeScript]**
-- 👯 I’m looking to collaborate on **[Your Collaboration Interests, e.g., Open Source Projects]**
-- 💬 Ask me about **MERN stack, JavaScript, React, Node.js, MongoDB**
-- 📫 How to reach me **[Your Email]**
-- ⚡ Fun fact **[A fun fact about you]**
+- 🔭 I’m currently working on FAGGINAPPS PVT LTD as a Interner.
+- 🌱 I’m currently learning ReactJS, MongoDB, Tailwind CSS, Java, ExpressJS, Next.js, GraphQL, TypeScript, Fulter etc
+- 👯 I’m looking to collaborate on Web Development Project
+- 💬 Ask me about MERN stack, JavaScript, React, Node.js, MongoDB
+- 📫 How to reach me chamithmithsara@gmail.com
+- ⚡ Fun fact Coding
 
 <!-- Social Media Badges -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="yourlinkedin" height="30" width="40" /></a>
+<a href="https://https://www.linkedin.com/in/chamithrathnayake/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="yourlinkedin" height="30" width="40" /></a>
 <a href="https://twitter.com/yourtwitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="yourtwitter" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/yourid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="yourstackoverflow" height="30" width="40" /></a>
 </p>
@@ -35,16 +35,16 @@
 </p>
 
 <!-- GitHub Stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact" alt="yourusername" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChamithRathnayake&show_icons=true&locale=en&layout=compact" alt="ChamithRathnayake" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="yourusername" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChamithRathnayake&show_icons=true&locale=en" alt="ChamithRathnayake" /></p>
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ChamithRathnayake" alt="GitHub trophies" />
 </p>
 
 <!-- Snake Game -->
-![GitHub Snake Light](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/ChamithRathnayake/ChamithRathnayake/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/ChamithRathnayake/ChamithRathnayake/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
