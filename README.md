@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ChamithRathnayake&label=Profile%20views&color=0e75b6&style=flat" alt="ChamithRathnayake" /> </p>
 
 <!-- Introduction -->
-- 🔭 I’m currently working on FAGGINAPPS PVT LTD as a Interner Software Engineer.
+- 🔭 I’m worked at FAGGINAPPS PVT LTD as a Interner Software Engineer. Now I'm working at TRISCHEL Fabrics Pvt Ltd as a Sysadmin (Path Changed)
 - 🌱 I’m currently learning ReactJS, MongoDB, Tailwind CSS, Java, ExpressJS, Next.js, GraphQL, TypeScript, Fulter etc
 - 👯 I’m looking to collaborate on Web Development Project
 - 💬 Ask me about MERN stack, JavaScript, React, Node.js, MongoDB
