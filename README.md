@@ -43,8 +43,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ChamithRathnayake" alt="GitHub trophies" />
 </p>
-
-<!-- Snake Game -->
-![GitHub Snake Light](https://github.com/ChamithRathnayake/ChamithRathnayake/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/ChamithRathnayake/ChamithRathnayake/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
